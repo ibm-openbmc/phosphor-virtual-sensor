@@ -1,4 +1,5 @@
 #include <phosphor-logging/elog-errors.hpp>
+#include <phosphor-logging/lg2.hpp>
 #include <xyz/openbmc_project/Common/error.hpp>
 
 const char* propIntf = "org.freedesktop.DBus.Properties";
